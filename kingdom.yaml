@@ -1,0 +1,8 @@
+name: beauty
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that judges whether a thing is finished by asking if it is beautiful, not just correct.
+dependsOn: [truth, geshtug, justice]
